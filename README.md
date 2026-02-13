@@ -1,23 +1,19 @@
-# Mi primer programa
+# **Primer Programa**
 
-## Contenido
+Este proyecto muestra los comandos báscios de Java para mostrar un mensaje al usuario y pedirle su nombre usando Java.Util.Scanner en el archivo de HolaMundo.
 
-- Solucion comand challenge
-- Repositorio
-- Programa
-- Créditos
+## **Pasos para la instalación**
+- Tener instalado Visual Studio Code
+- Tener Java Extension Pack (JDK)
+- Clonar el repositorio
+- Ejecutar el programa
 
-## Command Challenge
+## El Equipo está compuesto por dos personas:
+**John Steven Pinzón Y Julian David Caballero.**
 
-Agregada explicación sobre este ejercicio, las evidencias y conclusiones y conclusiones de lo aprendido
+## **Enlaces utilizados**
+[Como usar Java.Util.Scanner](https://ifgeekthen.nttdata.com/s/post/que-es-y-como-usar-la-clase-scanner-en-java-MCGCZBXHLT3VDXRLUQLJ4O2X4XKM?language=es)
+[Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+[Descarga Visual Studio Code](https://code.visualstudio.com/)
+[Java Extension Pack](https://code.visualstudio.com/docs/java/extensions)
 
-## Repositorio
-
-Agregados los apuntes de clase, sobre repositorio y sus principales comandos
-
-# Programa 
-
-Agregado Programa funcional.
-
-John Steven Pinzon Lenis
-Julian David Caballero Sanchez
