@@ -2,7 +2,7 @@
 
 ## Contenido
 
--Solucion comand challenge
+- Solucion comand challenge
 - Repositorio
 - Programa
 - Créditos
