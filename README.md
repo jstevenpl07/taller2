@@ -9,14 +9,15 @@
 
 ## Command Challenge
 
-TODO: Agregar explicación sobre este ejercicio, las evidencias y conclusiones y conclusiones de lo aprendido
+Agregada explicación sobre este ejercicio, las evidencias y conclusiones y conclusiones de lo aprendido
 
 ## Repositorio
 
-TODO: Agregar los apuntes de clse, sobre repositorio y sus principales comandos
+Agregados los apuntes de clase, sobre repositorio y sus principales comandos
 
 # Programa 
 
-TODO: lo vamos la siguiente clase ¡No faltes!
+Agregado Programa funcional.
 
 John Steven Pinzon Lenis
+Julian David Caballero Sanchez
